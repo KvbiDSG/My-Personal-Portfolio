@@ -736,6 +736,13 @@ top: 0;
 		flex: 0 0 100%;
 		max-width: 100%;
 	}
+	
+}
+
+@media (max-width: 570px) {
+	.service-item-inner h4 {
+		display: none;
+	}
 }
 
 
