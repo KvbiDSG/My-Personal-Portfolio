@@ -1,6 +1,12 @@
 # My-Personal-Portfolio
 Here is my ever-growing personal portfolio, created by myself with guide help. In addition to the most important information, there are some interesting features, such as changing the theme. 
 
+# Technologies that I used:
+
+* HTML
+* CSS
+* JavaScript
+
 # Check it!
 
 https://kvbidsg.github.io/My-Personal-Portfolio/
